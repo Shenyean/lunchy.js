@@ -9,3 +9,15 @@ Please note that the aim of this project is to create a simple PWA which allows 
 ## Reply hello and push it to the main branch if you see this.
 
 hello -loki
+
+## This is how to run the app if you have not started running.
+
+Please install node.
+Then run the following code.
+
+```
+npm install
+cd lunchy
+npm start
+
+```
