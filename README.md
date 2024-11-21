@@ -1,6 +1,7 @@
 # lunchy.js
 
 This is a application built on react js, which will help recommend lunch options which are near to you.
+update: I am going to move on to type script. 
 
 ## NOTE to Loki
 
